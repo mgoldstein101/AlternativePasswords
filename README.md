@@ -4,3 +4,5 @@ AssociativeAuth uses word association. Create a new user and complete a word ass
 
 ChessAuth uses a sequence of moves in chess. Creating new users is not supported, but play the white side of a user's assigned PGN file to authenticate.
 (Note, since the chess program uses the python-chess library, a venv or install of the module is required. a requirements.txt is included). 
+
+Both programs expect to be run in their respective folders. 
