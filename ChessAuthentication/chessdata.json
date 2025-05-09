@@ -1,0 +1,68 @@
+{
+  "miles": [
+    {
+      "salt": "R+ybASd4GPJMfB+ce2UWkg==",
+      "hash": "wBwSqOrcnJ1vA9AS89S2NqrxowFS0me7iq6OECnfDGQ="
+    }
+  ],
+  "london": [
+    {
+      "salt": "JUtqa6g/FTPKzckuIl99+w==",
+      "hash": "PznRTyQzL/UDAAu+g8Kd5kUnqUByTYXjw5yCmgvfJAc="
+    }
+  ],
+  "secretuser": [
+    {
+      "salt": "PY3axRR8+lMoJyxT/lBR6Q==",
+      "hash": "lIXorgl3hZebxVsgFN4UJQK29t33MuaR8ywkDga2TW0="
+    }
+  ],
+  "user1": [
+    {
+      "salt": "1cG6GxwmfABEDIdHRt04qQ==",
+      "hash": "031clw/uBXV5ODX7CF4W3GvGWUc7+Nj5OBhdSEnXgDU="
+    }
+  ],
+  "test": [
+    {
+      "salt": "PZxhSsrstaJK0GnsoWzUNg==",
+      "hash": "uF26h05y/lBFMVYuZJdzBBtvYeS2/LN5RRF5xVVVTF0="
+    }
+  ],
+  "student": [
+    {
+      "salt": "4Psp4Z8d1LjR5/ahGuRYMQ==",
+      "hash": "M5GXDSXnN4kN0GExjoTrxWlsIDx9uiU3k/y88gcBamY="
+    }
+  ],
+  "mile": [
+    {
+      "salt": "eegxPpK1962a3gqSxvw9Rw==",
+      "hash": "tH5bMcw94bfCEGanmIQJ/XMUIZg0txiSNU5sqBdo5M4="
+    }
+  ],
+  "lond": [
+    {
+      "salt": "Ibidlbm3GMvg9DI0JrGCLQ==",
+      "hash": "V5RCqOmrNkK4Q3S3kbhqO5xm58VQ/RnBD65keR6NijA="
+    }
+  ],
+  "secr": [
+    {
+      "salt": "0ciAl/Byd+vqgr5pCpiPIw==",
+      "hash": "8+iXI5CnEH16sxsLx7GizKgtBzTWUYBswDo9CVJxO4Q="
+    }
+  ],
+  "user": [
+    {
+      "salt": "5uDl4fmw1sAyM8gN8IIwQQ==",
+      "hash": "8SV5DE9ArAtrZGVzwtcymIgteJ6+6faTvNY164MTDP8="
+    }
+  ],
+  "stud": [
+    {
+      "salt": "mI4QVm7ff1K3qIo1xldD+g==",
+      "hash": "/BWSR6r0pHB1G1cfm7W0oZOKkkgKDIbrrUwZ9UXBM2c="
+    }
+  ]
+}

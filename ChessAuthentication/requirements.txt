@@ -1,0 +1,5 @@
+cffi==1.17.1
+chess==1.11.2
+cryptography==44.0.3
+pillow==11.2.1
+pycparser==2.22
